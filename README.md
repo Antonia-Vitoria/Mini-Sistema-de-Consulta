@@ -9,7 +9,6 @@ _Os arquivos principais são:_
 
 + **Banco.sql**, _que recria o banco de dados._
 
-+ _Um texto explicativo que mostra como tudo funciona._
 
 _Esse sistema é apenas um exemplo de estudo, criado para aprender como o C# conversa com o **SQL Server**_
 
